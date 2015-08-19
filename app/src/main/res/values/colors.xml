@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="civi_blue">#056186</color>
+    <color name="civi_green">#7DC857</color>
+    <color name="civi_gray">#E6E6E6</color>
+    <color name="black_transparent">#50000000</color>
+    <color name="pomegrantate">#d14233</color>
+</resources>

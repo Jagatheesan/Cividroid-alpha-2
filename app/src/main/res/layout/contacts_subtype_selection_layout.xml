@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout
+    android:elevation="2dp"
+    android:padding="16dp"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/rgContactTypes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rbAllContacts"
+            android:checked="true"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rbNoContacts"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rbOnlySubtypes"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@android:color/black"
+            android:enabled="false"
+            android:text="@string/only_sub_contacts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </RadioGroup>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:paddingLeft="20dp"
+        android:id="@+id/rvContactSubTypes"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
+</FrameLayout>

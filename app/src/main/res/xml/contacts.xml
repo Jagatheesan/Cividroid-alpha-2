@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ContactsSource
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <ContactsDataKind
+        android:mimeType="vnd.android.cursor.item/you.in.spark.energy.cividroid.profile"
+        android:icon="@drawable/civilogo"
+        android:summaryColumn="data2"
+        android:detailSocialSummary="true"
+        android:detailColumn="data3"
+        />
+</ContactsSource>

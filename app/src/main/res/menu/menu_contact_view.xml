@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+    <menu tools:context="com.example.dc.popularmovies.DetailActivity" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/view_in_address_book" app:showAsAction="never" android:orderInCategory="100" android:id="@+id/action_view_in_address_book"/>
+
+</menu>

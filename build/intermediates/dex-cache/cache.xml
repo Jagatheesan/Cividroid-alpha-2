@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\classes-2ce1bf72e70554488404879397581fa5f63c1ccf.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-f6b91b767b34546a9a8674c609e4d7b3a7f1e8ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\classes-9a253eefa603451cd4c15f25d360993dad309cef.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\classes-0e498b9fe86837c18ac6bc31960c703edac08d6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\classes-d83c965207bec175d2a244605d64cbbbabbec21c.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1\caches\modules-2\files-2.1\ch.acra\acra\4.6.2\b99297996579b72496c9f81b0c12d8404c74e618\acra-4.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99297996579b72496c9f81b0c12d8404c74e618">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\acra-4.6.2-434ef85a2efb4f51311cb75ed0f25ee7fb305745.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\7.0.9\7e46f063df46421d8917bcb12eadf01258f023e1\libphonenumber-7.0.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e46f063df46421d8917bcb12eadf01258f023e1">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\libphonenumber-7.0.9-f96816a38d692910c45162b4fe1b10ca821cc503.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\gson-2.3.1-4236ec3a18afdf74d782c29dcfc670a0e7b84fd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-9a19a106a4fcf86bb601ac3a2075e0c9f8fe00df.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\classes-84c7fc978739d4ff605226c79b0fc55dc1602f18.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-7d8bde5dace856fb6f3b047f2b5942144213d7c5.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\Cividroid\app\build\intermediates\pre-dexed\debug\glide-3.6.1-8e0033e1ca514ef4027a51977c2dc7c204c93a09.jar" />
+    </item>
+
+</items>
